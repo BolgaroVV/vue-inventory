@@ -152,7 +152,10 @@ onMounted(async () => {
   font-weight: 500;
   color: #7d7d7d;
 }
-
+.item-img {
+  width: 80px;
+  aspect-ratio: 1;
+}
 .crossmark {
   position: absolute;
   top: 8px;
