@@ -48,7 +48,7 @@
         </div>
       </div>
       <img
-        src="../../public/close.png"
+        src="../public/close.png"
         alt=""
         class="crossmark"
         @click="closeDsc"
